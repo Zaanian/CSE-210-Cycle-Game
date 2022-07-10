@@ -20,12 +20,14 @@ project folder. Select the main module inside the hunter folder and click the "r
 ---
 The project files and folders are organized as follows:
 ```
+
 root                    (project root folder)
 +-- Cycle               (source code for game)
   +-- game              (specific game classes)
   +-- main.py       (entry point for program)
 +-- README.md           (general info)
 ```
+
 
 ## Required Technologies
 ---
